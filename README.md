@@ -56,7 +56,7 @@
   </style>
 </head>
 <body>
-  <h1>Selamat datang di situs ini!</h1>
+  <h1>Wellcome To Website Gajelas, bikin karena gabut gaada kerjaan😁</h1>
   <p>Klik tombol di bawah untuk melanjutkan</p>
   <button id="startBtn">Lanjut</button>
 
